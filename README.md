@@ -11,7 +11,7 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SOC AUTOMATION LAB | <a href=(https://github.com/keondreburks/soc-automation-lab)>SOC LAB</a>|
 | Active directory                              |
 
 ## Tools
