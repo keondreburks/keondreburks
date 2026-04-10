@@ -16,7 +16,11 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, a
 
 ## Tools
 * splunk
-* 
+* Wazuh
+* TheHive
+* Shuffle
+* Kali Linux
+* Sysmon
 
 ### Network
 <div>
